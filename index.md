@@ -1,14 +1,14 @@
 ---
-title: HONG Kam U · Data Science Portfolio
+title: Data Science Portfolio
 ---
 
-# Hi, I'm HONG Kam U 👋
+# Hi, I'm Kam 👋
 
 MSc student in **Data Science at the University of Macau (UMAC)**. I use
 Python and open data to answer concrete questions about the economy I live
 in — lately, how tourism moves Macao's GDP and retail sales.
 
-- 🎓 CISC7204 Data Science (2025–2026)
+- 🎓 CISC7204 Data Science (2026–2027)
 - 📍 Macao SAR
 - 📫 Reach me via GitHub issues on any of my repositories
 
